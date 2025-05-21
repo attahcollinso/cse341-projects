@@ -1,0 +1,20 @@
+{
+  "name": "cse341-projects",
+  "version": "1.0.0",
+  "description": "week01 contact project",
+  "homepage": "https://github.com/attahcollinso/cse341-projects#readme",
+  "bugs": {
+    "url": "https://github.com/attahcollinso/cse341-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attahcollinso/cse341-projects.git"
+  },
+  "license": "ISC",
+  "author": "Attah Collins",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
